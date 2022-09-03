@@ -79,7 +79,8 @@ target/
 
 # IPython
 profile_default/
-ipython_config.py
+ipython_config.pypython -m venv new-venv 
+
 
 # pyenv
 .python-version
@@ -105,7 +106,7 @@ celerybeat.pid
 .env
 .venv
 env/
-venv/
+*venv/
 ENV/
 env.bak/
 venv.bak/
